@@ -24,13 +24,13 @@
 
 
 ## ⚙️ Installation
- -  Clone the repository
+ - ### Clone the repository
     git clone https://github.com/Shruthi018/Herbal-Health-Advisor.git
- -  Navigate to the project directory
+ - ### Navigate to the project directory
     cd herbal-health-advisor
- -  Run the server
+ - ### Run the server
     python app.py
- -  Access the application
+ - ### Access the application
     Open a browser and go to http://127.0.0.1:5000/
 
 ## ✨ How It Works  
@@ -46,7 +46,6 @@
 ### Feedback Analysis:  
 - Uses fuzzy logic under soft computing to analyze user feedback and improve the accuracy of recommendations.  
 
----
 
 ## 📜 Usage  
 
