@@ -2,7 +2,7 @@
 
 **Herbal Health Advisor** is a holistic health project that processes user input in Tamil and English through both voice and text, providing recommendations in the same language as the input. It utilizes fuzzy logic under the domain of soft computing to analyze user feedback and refine recommendations.  
 
----
+
 
 ## 🚀 Features  
 
@@ -12,7 +12,7 @@
 - 🌟 **Interactive Design:** Intuitive and accessible interface for users.  
 - 🔗 **Customizable Framework:** Built for scalability and future enhancements.  
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -21,7 +21,7 @@
 - **Soft Computing:** Fuzzy Logic for feedback analysis  
 - **Frontend:** HTML, CSS, JavaScript
 
-  ---
+
 
 ## ⚙️ Installation
  -  Clone the repository
@@ -29,7 +29,7 @@
  -  Navigate to the project directory
     cd herbal-health-advisor
  -  Run the server
-    python manage.py runserver
+    python app.py
  -  Access the application
     Open a browser and go to http://127.0.0.1:5000/
 
